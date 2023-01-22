@@ -1,0 +1,46 @@
+h1 {
+    background-color: rgb(19, 62, 237);
+    color: white;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+}
+
+.list-container {
+    flex: 5;
+}
+
+.form-container {
+    background-color: #e8e8e8;
+    flex: 2;
+}
+
+.my-form {
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.my-form label {
+    display: block;
+    width: 90px;
+}
+
+.main-icon {
+    font-size: 40px;
+    color: darkgrey;
+    cursor: pointer;
+}
+
+#iImportant.important {
+    color: rgb(221, 66, 9);
+}
+
+.task {
+    display: flex;
+}
+
+.task label {
+    display: block;
+}
